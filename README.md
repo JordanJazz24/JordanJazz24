@@ -25,8 +25,8 @@ Passionate about the clean code, the learning of new technologies and the contri
 
 | Project | Description | Technologies |
 |---|---|---|
-| **[Facturacion-CSR](https://github.com/JordanJazz24/Facturacion-CSR)** | Website for invoice management with user authentication. | `Java`, `Spring Boot`, `JavaScript`, `MySQL` |
-| **[Restaurant-web-api](https://github.com/JordanJazz24/Restaurant-web-api)** | REST API for managing restaurant menus and orders. | `Java`, `REST APIs` |
+| **[Spring-Boot-Invoice-System](https://github.com/JordanJazz24/Spring-Boot-Invoice-System)** | Website for invoice management with user authentication. | `Java`, `Spring Boot`, `JavaScript`, `MySQL` |
+| **[java-restaurant-api](https://github.com/JordanJazz24/java-restaurant-api)** | REST API for managing restaurant menus and orders. | `Java`, `REST APIs` |
 | **[LabSuite-Inventory](https://github.com/JordanJazz24/LabSuite-Inventory)** | Desktop GUI for managing lab instruments using MVC pattern. | `Java`, `MVC`, `MySQL` |
 
 ### 🌱 I'm Currently Learning
