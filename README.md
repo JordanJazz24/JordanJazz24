@@ -6,7 +6,7 @@
 
 ---
 
-Junior Fullstack Developer with a solid Backend Development Base using **. Net (C#) **, ** Java **, and ** SQL **. I have experience building real world applications such as the Sigcae system for the Ministry of Public Education of Costa Rica.
+Junior Fullstack Developer with a solid Backend Development Base using **.Net (C#)**, **Java**, and **SQL**. I have experience building real world applications such as the Sigcae system for the Ministry of Public Education of Costa Rica.
 
 Passionate about the clean code, the learning of new technologies and the contribution to agile teams.
 
